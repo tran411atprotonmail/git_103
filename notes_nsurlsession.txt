@@ -1,0 +1,30 @@
+https://www.youtube.com/watch?v=1nLZeUz_LrA
+27m40s
+
+2. More Xcode and Swift, MVC
+22:00,24:30
+
+
+
+
+
+
+man history
+	/history
+
+
+
+API Documentation - Earthquake Catalog
+http://earthquake.usgs.gov/fdsnws/event/1/
+http://earthquake.usgs.gov/fdsnws/event/1/application.json
+
+http://appellatecases.courtinfo.ca.gov/mobile/dsp_request_main.cfm?case_no=B252411&request_type=all
+
+
+
+
+
+
+
+
+

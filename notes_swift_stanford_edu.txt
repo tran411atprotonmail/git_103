@@ -1,0 +1,37 @@
+56:01
+
+
+Swift...
+
+All variables must be initialized!
+//Examples...
+var userIsInTheMiddleOfTypingANumber: Bool = false	////BAD FORM! YOU SHOULD LET IT INFER FROM "false" WHICH IS A BOOLEAN
+var userIsInTheMiddleOfTypingANumber = false	//BETTER!
+
+var display: UILabel?	//OPTIONAL VARIABLE; (i.e., var display: UILabel = nil)
+var display: UILabel!     //AUTOMATICALLY UNWRAP IT
+
+
+Optional variables (?) automatically gets "nil"
+!  unwrapped
+
+
+//INITIALIZING AN ARRAY...
+var operandStack: Array<Double> = Array<Double>()	//BAD FORM! YOU SHOULD LET IT INFER FROM "Array<Double>()" 
+var operandStack = Array<Double>()	//operandStack INFERS ITS TYPE FROM "Array<Double>()" AS AN ARRAY OF DOUBLE
+
+Swift is strongly typed. 
+Also type inference...Swift can infer from 
+
+
+
+
+
+
+
+
+
+\()
+
+
+
